@@ -10,7 +10,7 @@
 
     <tr height="100">
         <td align="center">
-            <img src="myphoto.jpg" width="100">
+            <img src="https://github.com/reireinanale/github.io/commit/952792570c0dc0377ec6744b31ce70184cc4822e" width="100">
         </td>
 
         <td align="center">
@@ -24,11 +24,11 @@
 
     <tr height="100">
         <td align="center">
-            <img src="monkey.jpg" width="100">
+            <img src="https://github.com/reireinanale/github.io/commit/e335ca9767492783f1370d3c8ec0f555367aa3ab" width="100">
         </td>
 
         <td align="center">
-            <img src="butterfly.jpg" width="100">
+            <img src="https://github.com/reireinanale/github.io/commit/ffd5c24265a79715e5a6b4311e9d744a392d419a" width="100">
         </td>
 
         <td></td>
@@ -56,13 +56,13 @@
 
     <td width="25%" align="center">
 
-        <button onclick="document.getElementById('showImg').src='myphoto.jpg'">
+        <button onclick="document.getElementById('showImg').src='https://github.com/reireinanale/github.io/commit/952792570c0dc0377ec6744b31ce70184cc4822e'">
            Your own photo
         </button>
 
         <br><br>
 
-        <button onclick="document.getElementById('showImg').src='bird.jpg'">
+        <button onclick="document.getElementById('showImg').src='https://github.com/reireinanale/github.io/commit/8a7693e94ddef1e965ad63136809b9c8a77e310d'">
           Bird
         </button>
 
@@ -97,7 +97,7 @@ Everything there is beautiful,
     </p>
 
     <p style="font-family: Courier New; font-size: 14px;">
-And the food are awesome.
+And the food is awesome.
     </p>
 
 <br><br>
